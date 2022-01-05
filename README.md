@@ -30,7 +30,7 @@ This is the preliminary set of topics.
 
 | Date | Topic | Reading | Notes | Code |
 |------|-------|---------|-------|------|
-| Week 1-1 | Intro, Bioinformatics vs Computational Biology|
+| Week 1-1 | Intro, Bioinformatics vs Computational Biology| [[Systems Immunology, Just Getting Started](https://www.nature.com/articles/ni.3768)], [[Grand Challenges in Single-Cell Data Science](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1926-6)] |
 |Week 1-2| Linear Algebra Review, Matrix Rank, Building Graphs from Data Graph Laplacian | 
 |Week 2-1| Graph Partitioning|
 |Week 2-2| Graph Partitioning + Biological Applications, Graph Embeddings|
