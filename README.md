@@ -63,6 +63,13 @@ This is the preliminary set of topics.
 |Week 17-2| Project Presentations Day 3
 |Final Exam Day| Final Project Writeups Due
 
+# Key Dates
+
+* **Homework 1 Due:** February 23
+* **Project Proposal Due:** March 9
+* **Homework 2 Due:** April 20
+* **Final Project Due:** Final Exam Day 
+
 # Homework, Project, Reading, Grading, Etc
 
 ## Homework
