@@ -115,6 +115,10 @@ I will provide you with several examples of publicly available biological datase
 4) Project Proposal : 10%
 5) Project final writeup: 30%
 
+## Lateness Policy
+
+I understand if things come up. If you need more time on your homework or project proposal, you are welcome to talk to me about it. However, if you simply turn in your homework late without any prior notice, I will deduct 10% of the points per day. There will be no late submissions of the course project permitted. 
+
 ## Accessibility Statement
 The University of North Carolina at Chapel Hill facilitates the implementation of reasonable accommodations, including resources and services, for students with disabilities, chronic medical conditions, a temporary disability or pregnancy complications resulting in barriers to fully accessing University courses, programs and activities.
 Accommodations are determined through the Office of Accessibility Resources and Service (ARS) for individuals with documented qualifying disabilities in accordance with applicable state and federal laws. See the ARS Website for contact information: https://ars.unc.edu or email ars@unc.edu.
