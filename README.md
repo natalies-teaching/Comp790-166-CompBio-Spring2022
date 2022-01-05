@@ -79,6 +79,11 @@ Most of what we discuss in class will come from papers. However, I suggest the f
 
 * [PML] Probabilistic Machine Learning: An Introduction. -- Kevin Murphy [[Link](https://probml.github.io/pml-book/book1.html)]
 
+* [GRL] Graph Representation Learning -- William Hamilton [[Link](https://www.cs.mcgill.ca/~wlh/grl_book/)
+
+* My favorite general linear Algebra Resource: Matrix Computational by Golub and Van Loan
+
+
 ## Readings
 Each student much choose two class meetings to answer reading questions for one of the discussed papers. Please answer the following questions and send the responses in PDF format to me by the beginning of our class meeting. 
 
