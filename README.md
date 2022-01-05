@@ -31,7 +31,7 @@ This is the preliminary set of topics.
 | Date | Topic | Reading | Notes | Code |
 |------|-------|---------|-------|------|
 | Week 1-1 | Intro, Bioinformatics vs Computational Biology| [[Systems Immunology, Just Getting Started](https://www.nature.com/articles/ni.3768)], [[Grand Challenges in Single-Cell Data Science](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1926-6)] |
-|Week 1-2| Linear Algebra Review, Matrix Rank, Building Graphs from Data Graph Laplacian | [[SLMP. pages 10-22](https://arxiv.org/abs/2004.07984)], [[Data Matrices + Low Rank](https://arxiv.org/abs/1705.07474)], [[Random Projection Trees](https://cseweb.ucsd.edu/~dasgupta/papers/rptree-stoc.pdf)],[[LargeVis](https://arxiv.org/abs/1602.00370)] |
+|Week 1-2| Linear Algebra Review, Matrix Rank, Building Graphs from Data, Graph Laplacian, Graph Diffusion | [[SLMP. pages 10-22](https://arxiv.org/abs/2004.07984)], [[Data Matrices + Low Rank](https://arxiv.org/abs/1705.07474)], [[Random Projection Trees](https://cseweb.ucsd.edu/~dasgupta/papers/rptree-stoc.pdf)],[[LargeVis](https://arxiv.org/abs/1602.00370)] | | [[LargeVis](https://github.com/lferry007/LargeVis)][[graph tools for python](https://github.com/KrishnaswamyLab/graphtools)] |
 |Week 2-1| Graph Partitioning|
 |Week 2-2| Graph Partitioning + Biological Applications, Graph Embeddings|
 |Week 3-1| Graph Signal Processing Basics, Graph Fourier Transform, and Low Pass Filtering|
