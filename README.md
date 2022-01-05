@@ -6,9 +6,9 @@ Instructor: Natalie Stanley
 
 Email: natalies@cs.unc.edu
 
-Time and Place: Monday/Wednesday 9:30am-10:45am in Sitterson 115 (SN0115). This is one of the first classrooms when you enter on the first floor across from the math department. Depending on what is happening with COVID, we will talk about hybrid options. 
+Time and Place: Monday/Wednesday 9:30am-10:45am in Sitterson 115 (SN0115) and on Zoom. This course will be offered as a hybrid course. I will be present in SN0115 for each class meeting and also be on zoom and recording the lecture. Please watch your emails for a zoom link. 
 
-Info and Attributes: This is a 3-credit full-semester course and fulfills the 'Applications' category for CS students. It is a lecture-style class (I will teach the lectures) and includes two homework assignments and a course project. Please make sure you selected the 3-credit option when you enrolled. 
+ Info and Attributes: This is a 3-credit full-semester course and fulfills the 'Applications' category for CS students. It is a lecture-style class (I will teach the lectures) and includes two homework assignments and a course project. Please make sure you selected the 3-credit option when you enrolled. 
 
 Office Hours: Monday 10:45-noon or by appointment 
 
