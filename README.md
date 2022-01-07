@@ -6,6 +6,8 @@ Instructor: Natalie Stanley
 
 Email: natalies@cs.unc.edu
 
+**Note : Please send me an email if you enrolled late and did not recieve the welcome email!**
+
 Time and Place: Monday/Wednesday 9:30am-10:45am in Sitterson 115 (SN0115) and on Zoom. This course will be offered as a hybrid course. I will be present in SN0115 for each class meeting and also be on zoom and recording the lecture. Please watch your emails for a zoom link. 
 
  Info and Attributes: This is a 3-credit full-semester course and fulfills the 'Applications' category for CS students. It is a lecture-style class (I will teach the lectures) and includes two homework assignments and a course project. Please make sure you selected the 3-credit option when you enrolled. 
