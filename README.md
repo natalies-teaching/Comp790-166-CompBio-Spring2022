@@ -32,9 +32,10 @@ This is the preliminary set of topics.
 
 | Date | Topic | Reading | Notes | Code |
 |------|-------|---------|-------|------|
-| Week 1-1 | Intro, Bioinformatics vs Computational Biology| [[Systems Immunology, Just Getting Started](https://www.nature.com/articles/ni.3768)], [[Grand Challenges in Single-Cell Data Science](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1926-6)] |
-|Week 1-2| Linear Algebra Review, Matrix Rank, Building Graphs from Data, Graph Laplacian, Graph Diffusion | [[SLMP. pages 10-22](https://arxiv.org/abs/2004.07984)], [[Data Matrices + Low Rank](https://arxiv.org/abs/1705.07474)], [[Random Projection Trees](https://cseweb.ucsd.edu/~dasgupta/papers/rptree-stoc.pdf)],[[LargeVis](https://arxiv.org/abs/1602.00370)] | | [[LargeVis](https://github.com/lferry007/LargeVis)][[graph tools for python](https://github.com/KrishnaswamyLab/graphtools)] |
-|Week 2-1| Graph Partitioning|
+|Monday January 10, 2022 | Intro, Bioinformatics vs Computational Biology| [[Systems Immunology, Just Getting Started](https://www.nature.com/articles/ni.3768)], [[Grand Challenges in Single-Cell Data Science](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1926-6)] | [[Lecture 1 Notes](https://github.com/natalies-teaching/Comp790-166-CompBio-Spring2022/blob/main/Lecture_Notes/Lecture1_public.pdf)] | 
+|Wednesday January 12, 2022| Linear Algebra Review, Matrix Rank, Building Graphs from Data, Graph Laplacian, Graph Diffusion | [[SLMP. pages 10-22](https://arxiv.org/abs/2004.07984)], [[Data Matrices + Low Rank](https://arxiv.org/abs/1705.07474)], [[Random Projection Trees](https://cseweb.ucsd.edu/~dasgupta/papers/rptree-stoc.pdf)],[[LargeVis](https://arxiv.org/abs/1602.00370)] | | [[LargeVis](https://github.com/lferry007/LargeVis)][[graph tools for python](https://github.com/KrishnaswamyLab/graphtools)] |
+|Monday January 17, 2022| No class for ML Day |
+|Wednesday January 19, 2022| Graph Partitioning|
 |Week 2-2| Graph Partitioning + Biological Applications, Graph Embeddings|
 |Week 3-1| Graph Signal Processing Basics, Graph Fourier Transform, and Low Pass Filtering|
 |Week 3-2| Intro to Single-Cell Bioinformatics and their data structures, transformations, etc|
@@ -98,7 +99,7 @@ Each student much choose two class meetings to answer reading questions for one 
 
 ### Reading Questions
 
-**Please choose one paper per week on the weeks when reading summaries are due and turn them in before our class meeting 9:30 am to natalies+comp790@cs.unc.edu**. 
+**Please choose 2 papers over the course of the semester to do this for, and turn them in before our class meeting 9:30 am to natalies+comp790@cs.unc.edu**. 
 
 1) Please explain in 2 sentences or less what the problem being solved is.
 
