@@ -67,7 +67,7 @@ This is the preliminary set of topics.
 
 # Key Dates
 
-* **Homework 1 Due:** February 23
+* **Homework 1 Due:** February 23 (assigned by February 9)
 * **Project Proposal Due:** March 9
 * **Homework 2 Due:** April 20
 * **Final Project Due:** Final Exam Day 
