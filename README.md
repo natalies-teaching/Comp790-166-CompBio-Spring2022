@@ -43,12 +43,12 @@ This is the preliminary set of topics.
 |Monday February 7| Imputation for single-cell data, Branch Preserving Visualization for Single-Cell Data| [[MAGIC](https://www.biorxiv.org/content/10.1101/111591v1)],[[PHATE](https://www.nature.com/articles/s41587-019-0336-3)],  | [[Lecture 8 Notes](https://github.com/natalies-teaching/Comp790-166-CompBio-Spring2022/blob/main/Lecture_Notes/Lecture8_public.pdf)] |   [[MAGIC](https://github.com/KrishnaswamyLab/MAGIC)],[[Phate](https://github.com/KrishnaswamyLab/PHATE)]  | 
 |Wednesday February 9 [[*Homework 1 Assigned*](https://github.com/natalies-teaching/Comp790-166-CompBio-Spring2022/tree/main/Homework1)]| Branch Preserving Visualizating for Cellular Differentiation, Data Augmentation for Single Cell Identifying prototypical cells of a particular experimental condition with graph signal processing| [[SUGAR](https://papers.nips.cc/paper/2018/hash/c8ed21db4f678f3b13b9d5ee16489088-Abstract.html)] | [[Lecture 9 Notes](https://github.com/natalies-teaching/Comp790-166-CompBio-Spring2022/blob/main/Lecture_Notes/Lecture9_public.pdf)] | [[sugar](https://github.com/stanleyjs/sugar)] | 
 |Monday February 14| Finish data augmentation for sparse single-cell landscapes, start graph signal processing background|[[Graph Signal Processing Review Article](https://web.media.mit.edu/~xdong/paper/spm20.pdf)],[[MELD](https://www.biorxiv.org/content/10.1101/532846v4)] | [[Lecture 10 Notes](https://github.com/natalies-teaching/Comp790-166-CompBio-Spring2022/blob/main/Lecture_Notes/Lecture10_public.pdf)] | [[MELD](https://github.com/KrishnaswamyLab/MELD)] [[pyGSP](https://pygsp.readthedocs.io/en/stable/)] |
-|Wednesday February 16 [[*Project Proposal Signup Sheet*](https://docs.google.com/spreadsheets/d/1fX52jKWDWbJO1iB6D7FHv1DNQ53LPs0S8yNCUnUbSwQ/edit?usp=sharing) | Finish introducing graph signal processing, low-pass filtering, MELD for selecting condition-specific prototypical cells | See references from Monday. Also, [[The Emerging Field of Graph Signal Processing](https://arxiv.org/abs/1211.0053)] | | |
+|Wednesday February 16 [[*Project Proposal Signup Sheet*](https://docs.google.com/spreadsheets/d/1fX52jKWDWbJO1iB6D7FHv1DNQ53LPs0S8yNCUnUbSwQ/edit?usp=sharing)] | Finish introducing graph signal processing, low-pass filtering, MELD for selecting condition-specific prototypical cells | See references from Monday. Also, [[The Emerging Field of Graph Signal Processing](https://arxiv.org/abs/1211.0053)] | | |
 |Week X-X| Differential Abundance Analysis |
-|Week 6-2| Combining Multiple Single-Cell Datasets|
-|Week 7-1| Combinding multiple panels (e.g. single-cell data with different measured features), Pseudotime and trajectory inference|
-|Week 7-1| Project Proposal Presentations Day 1|
-|Week 7-2| Project Proposal Presentations Day 2|
+|Week X-X| Combining Multiple Single-Cell Datasets|
+|Week X-X| Combinding multiple panels (e.g. single-cell data with different measured features), Pseudotime and trajectory inference|
+|Week X-X| X|
+|Week X-X| X|
 |Week 8-1| Combining biological data from multiple modalities using Grassmann Embeddding|
 |Week 8-1| Longitudinal multi-modal integration and neuroscience application|
 |Week 9-1| Convex Optimization and ADMM|
