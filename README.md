@@ -47,7 +47,7 @@ This is the preliminary set of topics.
 |Monday February 21| Finish up GSP background, Identifying condition or experimentally-specific prototypical cells with Meld, Start Differential Abundance Analysis with Cydar | [[Cydar](https://www.nature.com/articles/nmeth.4295)] | [[Lecture 12 Notes](https://github.com/natalies-teaching/Comp790-166-CompBio-Spring2022/blob/main/Lecture_Notes/Lecture12_public.pdf)] | [[cydar](https://www.bioconductor.org/packages/release/bioc/html/cydar.html)] |
 |Wednesday February 23, **Homework 1 is due by 11:59pm eastern time on February 25**| Differential Abundance Day 2. Cydar,  Milo| [[Milo](https://www.nature.com/articles/s41587-021-01033-z)] | [[Lecture 13 Notes](https://github.com/natalies-teaching/Comp790-166-CompBio-Spring2022/blob/main/Lecture_Notes/Lecture13_public.pdf)] |  [[Milo](https://github.com/emdann/milopy)] | 
 |Monday February 28 [[*Please sign up for your project presentations here!*](https://docs.google.com/spreadsheets/d/1fX52jKWDWbJO1iB6D7FHv1DNQ53LPs0S8yNCUnUbSwQ/edit?usp=sharing)]| Finish differential abundance analysis (Milo and Cydar), Contrastive PCA for dealing with background data | [[Contrastive PCA](https://www.nature.com/articles/s41467-018-04608-8)] |  | [[Contrastive PCA](https://github.com/abidlabs/contrastive)] |
-|Week X-X| X|
+|Wednesday March 2 **Please bring your laptops to class!**| Trajectory inference - guest lecture and tutorial by Jolene Ranek |
 |Week X-X| X|
 |Week 8-1| Combining biological data from multiple modalities using Grassmann Embeddding|
 |Week 8-1| Longitudinal multi-modal integration and neuroscience application|
