@@ -52,6 +52,7 @@ This is the preliminary set of topics.
 |Wednesday, March 9| Batch 2 of project presentations | [[Link to Presentation Schedule](https://docs.google.com/spreadsheets/d/1fX52jKWDWbJO1iB6D7FHv1DNQ53LPs0S8yNCUnUbSwQ/edit?usp=sharing)] |
 |Monday, March 14| Spring Break -- No class! |
 |Wednesday, March 16| Spring Break -- No class! | 
+|Monday, March 21| Finish differential abundance analysis (Milo), Contrastive PCA, Merging Multiple Single-Cell Datasets (Conos) | [[Conos](https://www.nature.com/articles/s41592-019-0466-z)] | | [[Conos](https://github.com/kharchenkolab/conos)] |
 |X| Combining biological data from multiple modalities using Grassmann Embeddding|
 |Week 8-1| Longitudinal multi-modal integration and neuroscience application|
 |Week 9-1| Convex Optimization and ADMM|
