@@ -52,7 +52,7 @@ This is the preliminary set of topics.
 |Wednesday, March 9| Batch 2 of project presentations | [[Link to Presentation Schedule](https://docs.google.com/spreadsheets/d/1fX52jKWDWbJO1iB6D7FHv1DNQ53LPs0S8yNCUnUbSwQ/edit?usp=sharing)] |
 |Monday, March 14| Spring Break -- No class! |
 |Wednesday, March 16| Spring Break -- No class! | 
-|Monday, March 21| Finish differential abundance analysis (Milo), Contrastive PCA, Merging Multiple Single-Cell Datasets (Conos) | [[Conos](https://www.nature.com/articles/s41592-019-0466-z)] | | [[Conos](https://github.com/kharchenkolab/conos)] |
+|Monday, March 21| Finish differential abundance analysis (Milo), Contrastive PCA, Merging Multiple Single-Cell Datasets (Conos) | [[Conos](https://www.nature.com/articles/s41592-019-0466-z)] | [[Lecture 18 Notes](https://github.com/natalies-teaching/Comp790-166-CompBio-Spring2022/blob/main/Lecture_Notes/Lecture18.pdf)] | [[Conos](https://github.com/kharchenkolab/conos)] |
 | Wednesday, March 23| Pseudotime, Diffusion, and Cellular Differentiation | [[Diffusion Maps for Differentiation](https://academic.oup.com/bioinformatics/article/31/18/2989/241305)], [[SLICER-developed at UNC](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0975-3)], [[Original Diffusion Maps (Coifman)](https://papers.nips.cc/paper/2005/file/2a0f97f81755e2878b264adf39cba68e-Paper.pdf)] | | [[Diffusion Maps -Scanpy](https://scanpy.readthedocs.io/en/latest/api/scanpy.tl.diffmap.html)], [[SLICER](https://github.com/jw156605/SLICER)]  | 
 |X| Combining biological data from multiple modalities using Grassmann Embeddding|
 |Week 8-1| Longitudinal multi-modal integration and neuroscience application|
