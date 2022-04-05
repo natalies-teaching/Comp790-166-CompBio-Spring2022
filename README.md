@@ -57,20 +57,13 @@ This is the preliminary set of topics.
 |Monday, March 28| Last single-cell lecture. Branching trajectories with SLICER. Begin combining biological data from multiple modalities using Grassmann Embeddding| [[Subspace Merging on Grassmann Manifold](https://academic.oup.com/bioinformatics/article/35/10/1653/5134062?login=true)], [[Rayleigh Ritz Business (Spectral Clustering...](https://arxiv.org/abs/0711.0189)] | [[Lecture 20 Notes](https://github.com/natalies-teaching/Comp790-166-CompBio-Spring2022/blob/main/Lecture_Notes/Lecture20_public.pdf)] | [[Grassmann Cluster](https://github.com/michaelsharpnack/GrassmannCluster)] | 
 |Wednesday, March 30| Finish multimodal data integration with Grassmann + Rayleigh Ritz, Start MOFA integration | [[MOFA](https://www.embopress.org/doi/full/10.15252/msb.20178124)], [[MOFA+](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02015-1)] | [[Lecture 21 Notes](https://github.com/natalies-teaching/Comp790-166-CompBio-Spring2022/blob/main/Lecture_Notes/Lecture21_public.pdf)] | [[MOFA](https://github.com/bioFAM/MOFA)] |
 |Monday, April 4| Integrating multiple heterogeneous graphs (e.g. multiple relational definitions). Start network alignment. | [[Mashup](https://www.cell.com/cell-systems/fulltext/S2405-4712(16)30360-X?)], [[REGAL (network alignment)](https://gemslab.github.io/papers/heimann-2018-regal.pdf)] | [[Lecture 22 Notes](https://github.com/natalies-teaching/Comp790-166-CompBio-Spring2022/blob/main/Lecture_Notes/Lecture22_public.pdf)]  | [[Mashup](http://cb.csail.mit.edu/cb/mashup/)], [[REGAL](https://github.com/GemsLab/REGAL)] | 
-|Week 9-1| Convex Optimization and ADMM|
-|Week 10-1| 'Multiomics Factor Analysis' for integrating multiple modalities and multiple single-cell modalities|
-|Week 10-2| Integrating Graphs with Multiple Relational Definitions (e.g. same nodes, different edges), Intro to Network Alignment|
-|Week 11-1| Refining Graph Alignments and Graph Summarization|
-|Week 12-2| Harmonic Alignment for integrating multiple single-cell datasets, Graph Neural Networks vs. Label Propagation|
-|Week 13-1| Graph Neural Networks to integrate spatial information with genomic data|
-|Week 13-2| Imagining Proteomics and Genomics and Spatial Regularization|
-|Week 14-1| Computational Neuroscience and Time-Varying Analysis of Brain Connectivity| 
-|Week 15-1| Sketching single-cell datasets day 1
-|Week 15-2| Sketching single-cell datasets day 2
-|Week 16-1| Technical writing in comp bio, opportunities for graph learning in biology, summary of topics covered|
-|Week 16-2| Project Presentations Day 1
-|Week 17-1| Project Presentations Day 2
-|Week 17-2| Project Presentations Day 3
+|Wednesday, April 6| Graph Alignment|
+|Monday, April 11| Graph Neural Networks and Label Propagation |
+|Wednesday, April 13|Imaging Modalities and Spatial Regularization   |
+|Monday, April 18| Computational Neuroscience |
+|Wednesday, April 20| Technical Writing in Comp Bio |
+|Monday, April 25| Project Presentations Day 1 |
+|Wednesday, April 27| Project Presentations Day 2|
 |Final Exam Day| Final Project Writeups Due
 
 # Key Dates
