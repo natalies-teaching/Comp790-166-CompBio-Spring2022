@@ -58,9 +58,9 @@ This is the preliminary set of topics.
 |Wednesday, March 30| Finish multimodal data integration with Grassmann + Rayleigh Ritz, Start MOFA integration | [[MOFA](https://www.embopress.org/doi/full/10.15252/msb.20178124)], [[MOFA+](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02015-1)] | [[Lecture 21 Notes](https://github.com/natalies-teaching/Comp790-166-CompBio-Spring2022/blob/main/Lecture_Notes/Lecture21_public.pdf)] | [[MOFA](https://github.com/bioFAM/MOFA)] |
 |Monday, April 4| Integrating multiple heterogeneous graphs (e.g. multiple relational definitions) | [[Mashup](https://www.cell.com/cell-systems/fulltext/S2405-4712(16)30360-X?)] | [[Lecture 22 Notes](https://github.com/natalies-teaching/Comp790-166-CompBio-Spring2022/blob/main/Lecture_Notes/Lecture22_public.pdf)]  | [[Mashup](http://cb.csail.mit.edu/cb/mashup/)] | 
 |Wednesday, April 6 [[*Project Presentation Signup* ](https://docs.google.com/spreadsheets/d/1_z1NBffJF8do8JrasTQl-8pS-ATR2ScI7SutRDPIf80/edit?usp=sharing)], [[*Final Project Writeup Template*](https://github.com/natalies-teaching/Comp790-166-CompBio-Spring2022/tree/main/Project_Final_Writeup)], [[**Homework 2 Assigned and due Fri April 22**](https://github.com/natalies-teaching/Comp790-166-CompBio-Spring2022/tree/main/Homework2)]| Graph Alignment and Summarization| [[REGAL (graph alignment)](https://gemslab.github.io/papers/heimann-2018-regal.pdf)], [[Refining Network Alignment](https://gemslab.github.io/papers/heimann-2021-RefiNA.pdf)] | [[Lecture 23 Notes](https://github.com/natalies-teaching/Comp790-166-CompBio-Spring2022/blob/main/Lecture_Notes/Lecture23_public.pdf)]  | [[REGAL](https://github.com/GemsLab/REGAL)], [[RefiNA](https://github.com/GemsLab/RefiNA)] |
-|Monday, April 11| Graph Neural Networks and Label Propagation |
-|Wednesday, April 13|Imaging Modalities and Spatial Regularization   |
-|Monday, April 18| Computational Neuroscience |
+|Monday, April 11| Graph Alignment Refinment, Summarization, and Compression |
+|Wednesday, April 13| Label Propagation and Graph Neural Networks   |
+|Monday, April 18| Imaging Modalities and Spatial Regularization |
 |Wednesday, April 20| Technical Writing in Comp Bio |
 |Monday, April 25| Project Presentations Day 1 |
 |Wednesday, April 27| Project Presentations Day 2|
