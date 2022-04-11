@@ -61,7 +61,7 @@ This is the preliminary set of topics.
 |Monday, April 11| Graph Alignment Refinment, Summarization, and Compression | See papers from last time | [[Lecture 24 Notes](https://github.com/natalies-teaching/Comp790-166-CompBio-Spring2022/blob/main/Lecture_Notes/Lecture24_public.pdf)]|
 |Wednesday, April 13| Label Propagation and Graph Neural Networks   | [[Correct and Smooth](https://arxiv.org/abs/2010.13993)] |
 |Monday, April 18| Imaging Modalities and Spatial Regularization | [[LEAPH](https://www.cell.com/cell-reports-methods/pdfExtended/S2667-2375(21)00124-7)] |
-|Wednesday, April 20| Technical Writing in Comp Bio |
+|Wednesday, April 20| Technical Writing in Comp Bio | [[Watch : How to be a Machine Learning Biologist](https://www.youtube.com/watch?v=xueh6WnpRDQ&t=1651s)] |
 |Monday, April 25| Project Presentations Day 1 |
 |Wednesday, April 27| Project Presentations Day 2|
 |May 5| Final Project Writeups Due
