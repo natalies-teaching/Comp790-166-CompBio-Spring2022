@@ -64,7 +64,7 @@ This is the preliminary set of topics.
 |Wednesday, April 20| Technical Writing in Comp Bio |
 |Monday, April 25| Project Presentations Day 1 |
 |Wednesday, April 27| Project Presentations Day 2|
-|Final Exam Day| Final Project Writeups Due
+|May 5| Final Project Writeups Due
 
 # Key Dates
 
