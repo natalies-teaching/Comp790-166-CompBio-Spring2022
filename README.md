@@ -62,7 +62,7 @@ This is the preliminary set of topics.
 |Wednesday, April 13| Label Propagation and Graph Neural Networks   | [[Correct and Smooth](https://arxiv.org/abs/2010.13993)] | [[Lecture 25 Notes](https://github.com/natalies-teaching/Comp790-166-CompBio-Spring2022/blob/main/Lecture_Notes/Lecture25_public.pdf)] |
 |Monday, April 18, [[Project Rubric](https://docs.google.com/document/d/1FKh4_9VK6CHwqLs2V3mTo457FwELEFYNrXwEqNbGlBk/edit?usp=sharing)]| Imaging Modalities and Spatial Regularization | [[LEAPH](https://www.cell.com/cell-reports-methods/pdfExtended/S2667-2375(21)00124-7)] | [Lecture 26 Notes](https://github.com/natalies-teaching/Comp790-166-CompBio-Spring2022/blob/main/Lecture_Notes/Lecture26_public.pdf)] | 
 |Wednesday, April 20| Technical Writing in Comp Bio and Wrap-Up, Summary of the Semester wrt to graphs in biomedicine | [[Watch : How to be a Machine Learning Biologist](https://www.youtube.com/watch?v=xueh6WnpRDQ&t=1651s)], [[Graph Representation Learning in Biomedicine](https://arxiv.org/abs/2104.04883)] | [Lecture 27 Notes](https://github.com/natalies-teaching/Comp790-166-CompBio-Spring2022/blob/main/Lecture_Notes/Lecture27_public.pdf)] |
-|Monday, April 25 [**No zoom option today**]| Project Presentations Day 1 |
+|Monday, April 25 [**zoom option available**]| Project Presentations Day 1 |
 |Wednesday, April 27 [**No zoom option today**]| Project Presentations Day 2|
 |May 5| Final Project Writeups Due
 
